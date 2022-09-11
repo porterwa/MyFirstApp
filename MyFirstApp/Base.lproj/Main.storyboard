@@ -44,7 +44,7 @@
                     </view>
                     <connections>
                         <outlet property="labelResult" destination="jk6-tL-f8H" id="La8-sh-35g"/>
-                        <outlet property="textMessage" destination="kzP-6O-Wkg" id="yV0-OT-tmk"/>
+                        <outlet property="textDisplay" destination="kzP-6O-Wkg" id="yV0-OT-tmk"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
